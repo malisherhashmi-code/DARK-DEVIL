@@ -19,22 +19,22 @@
     0 0 36px #d896ff,
     0 0 48px #ab47bc;
   padding: 12px 0;
-"> Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by Jawad TechX
+"> Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by Dark Hacker TechX
 </div>
 </p>
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/-✨_KHAN--MD_INSIGHTS_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/KHAN-MD&link=https://github.com/KHAN-MD" />
+  <img src="https://img.shields.io/badge/-✨_Teach_INSIGHTS_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/KHAN-MD&link=https://github.com/KHAN-MD" />
 </h1>
 </p>
 </p>
-    <img src="https://komarev.com/ghpvc/?username=JawadTechYT&label=Views&color=9D00FF&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/github/stars/JawadTechYT/KHAN-MD?color=9D00FF&label=Stars&style=flat" alt="GitHub Stars" />
-    <img src="https://img.shields.io/github/forks/JawadTechYT/KHAN-MD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
-    <img src="https://img.shields.io/github/followers/JawadTechYT?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/last-commit/JawadTechYT/KHAN-MD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
-    <img src="https://img.shields.io/github/repo-size/JawadTechYT/KHAN-MD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
-    <img src="https://img.shields.io/github/package-json/v/JawadTechYT/KHAN-MD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
+    <img src="https://komarev.com/ghpvc/?username=DarkTechYT&label=Views&color=9D00FF&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/github/stars/DarkTechYT/KHAN-MD?color=9D00FF&label=Stars&style=flat" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/forks/DarkTechYT/KHAN-MD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
+    <img src="https://img.shields.io/github/followers/DarkTechYT?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/last-commit/DarkTechYT/KHAN-MD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
+    <img src="https://img.shields.io/github/repo-size/DarkTechYT/KHAN-MD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
+    <img src="https://img.shields.io/github/package-json/v/DarkTechYT/KHAN-MD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
   </p>
   
 </div>
@@ -46,7 +46,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JawadTechXD/JawadTechXD/refs/heads/main/khanmd.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://raw.githubusercontent.com/DarkTechXD/DarkTechXD/refs/heads/main/khanmd.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 ***
@@ -66,7 +66,7 @@
 
   <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 4px solid #ff00ff;">
     <p style="color: #00ffff; font-size: 16px;">🚀 First, star & fork the repo using the button below:</p>
-    <a href='https://github.com/JawadTechYT/KHAN-MD/fork' target="_blank">
+    <a href='https://github.com/DarkTechYT/DARK-MD/fork' target="_blank">
       <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
     </a>
   </div>
@@ -90,7 +90,7 @@
 
 ## 🚀 Pairing Dashboard
 
-> Securely link your device using the official KHAN-MD pairing portals below: if connection issues may require vpn activation to fix this issue.
+> Securely link your device using the official DARK-MD pairing portals below: if connection issues may require vpn activation to fix this issue.
 
  <div align="center">
 
@@ -107,15 +107,15 @@
 
 ## 📡 DEPLOYMENT SITES
 
-<p align="center">Deploy your <strong>KHAN-MD Bot</strong> with one click on your favorite hosting platforms.</p>
+<p align="center">Deploy your <strong>DARK-MD Bot</strong> with one click on your favorite hosting platforms.</p>
 
 <div align="center">
 
-### 🔥 TRY JAWAD MD MINI
+### 🔥 TRY DARK MD MINI
 <!-- Cyber Red -->
 <p align="center">
-  <a href="https://jawadtech.vercel.app">
-    <img src="https://img.shields.io/badge/🚀_START_JAWAD_MD-ff073a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="JAWAD MD Mini Cyber Red"/>
+  <a href="https://DARKtech.vercel.app">
+    <img src="https://img.shields.io/badge/🚀_START_DARK_MD-ff073a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="DARK MD Mini Cyber Red"/>
   </a>
 </p>
 
@@ -123,11 +123,11 @@
   <table>
     <tr>
       <!-- Heroku (with rocket logo on left) -->
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/JawadExtra/KHAN-MD" target="_blank">
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/DARKExtra/KHAN-MD" target="_blank">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=rocket&logoColor=white"/>
 </a></td>
       <!-- Replit -->
-      <td><a href="https://replit.com/github/JawadExtra/KHAN-MD" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://replit.com/github/DARKExtra/KHAN-MD" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
       <!-- Koyeb -->
@@ -179,7 +179,7 @@
 
 ---
 
-## KHAN-MD FEATURES
+## SDARK-MD FEATURES
 
 <div align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=purple&label=Features&style=for-the-badge&url=https://api.example.com/khanmd&query=$.features_count&suffix=%20Active" alt="Features"/>
@@ -238,7 +238,7 @@
 ## Credits ⚒️
 
 <p><strong>Creator:</strong><br>
-JawadTechX (Official Creator)</p>
+DARKTechX (Official Creator)</p>
 
 ---
 
