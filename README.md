@@ -1,4 +1,4 @@
-<DARK-DEVIL>
+######  DARK-DEVIL
 <div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6a0dad,100:ab47bc&text=KHAN%20MD&fontColor=ffffff&fontSize=85&fontAlignY=40&animation=twinkling&desc=Powered%20By%20Jawad%20TechX&descSize=20&descAlignY=65&stroke=ffffff&strokeWidth=1.2" width="100%"/>
