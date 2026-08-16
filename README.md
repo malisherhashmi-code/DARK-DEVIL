@@ -179,7 +179,7 @@
 
 ---
 
-## SDARK-MD FEATURES
+## DARK HACKER -MD FEATURES
 
 <div align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=purple&label=Features&style=for-the-badge&url=https://api.example.com/khanmd&query=$.features_count&suffix=%20Active" alt="Features"/>
